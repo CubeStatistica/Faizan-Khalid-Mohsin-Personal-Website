@@ -517,3 +517,22 @@ color: white !important;
 .carousel-indicators{
     margin-bottom: -4em;
 }
+/*Blogs Page*/
+
+.blog_wrapper{
+    padding-top: 8em;
+}
+.blog_wrapper h2{
+    font-family: 'EB Garamond', serif;
+    font-size: 5em;
+    padding-right: 5em;
+    font-style: italic;
+}
+.blog_wrapper h2 span{
+    color: #6a040f !important;
+}
+.blog_wrapper p{
+    font-family: 'EB Garamond', serif;
+    font-size: 30px;
+    padding-right: 5em;
+}

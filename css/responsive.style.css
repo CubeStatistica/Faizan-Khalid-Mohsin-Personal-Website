@@ -65,8 +65,11 @@
         border: 2px solid white;
         color: white;
     }
-    
+    .blog_wrapper .container h2{
+        padding-right: 0 !important;
+        line-height: 1em !important;
     }
+}
 
 @media (max-width: 767px) {
 

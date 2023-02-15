@@ -24,6 +24,8 @@ navBar.forEach(function (a){
     });
 });*/
 
+
+
 //js for blog categories
 filterSelection("all")
 function filterSelection(c) {
@@ -68,8 +70,6 @@ for (var i = 0; i < btns.length; i++) {
   });
 }
 //js for blog categories
-
-
 
 
 
